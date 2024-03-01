@@ -10,9 +10,11 @@ const product = {
     price: 270,
 };
 
-console.log(product);
+let a = 4;
+let b = 5;
 
-
-console.log(product);
+console.log("a == b && a<b", a==b && a<b);
+console.log("a==b || a<b", a==b || a<b);
+console.log("!(a == b)", !(a == b));
 
 
