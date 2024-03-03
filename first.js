@@ -17,4 +17,11 @@ console.log("a == b && a<b", a==b && a<b);
 console.log("a==b || a<b", a==b || a<b);
 console.log("!(a == b)", !(a == b));
 
+// let name = prompt("hello");
+// console.log(name);
+
+// alert("aakash");
+
+
+
 
