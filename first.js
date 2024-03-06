@@ -37,12 +37,15 @@ if(marks<=59 && marks>=40){
 if(marks<=39 && marks>=30){
     grade = 'D';
 }
-else{
-    grade = 'F';
+if (condition) {
+    
+} else {
+    
 }
 
 console.log("your grade is :", grade);
 
-console.log("your grade is :", grade);
+number = prompt("enter number");
+console.log("number is:", number);
 
 
