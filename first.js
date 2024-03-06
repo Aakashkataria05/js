@@ -43,5 +43,6 @@ else{
 
 console.log("your grade is :", grade);
 
+console.log("your grade is :", grade);
 
 
