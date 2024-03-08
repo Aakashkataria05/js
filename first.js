@@ -58,3 +58,4 @@ for (let i of str){
 }
 
 console.log("your grade is :", grade);
+console.log("your grade is :", grade);
