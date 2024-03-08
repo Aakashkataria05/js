@@ -56,3 +56,5 @@ let str = 'aakash';
 for (let i of str){
     console.log(i); 
 }
+
+console.log("your grade is :", grade);
