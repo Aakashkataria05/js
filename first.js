@@ -71,3 +71,12 @@ console.log("your grade is :", grade);
 // }
 // if(marks<=59 && marks>=40){
 //     grade = 'C';
+// }
+// if(marks<=39 && marks>=30){
+//     grade = 'D';
+// }
+// else if (marks<=29 && marks>=0) {
+//     grade = 'F'
+// }
+
+// console.log("your grade is :", grade);
