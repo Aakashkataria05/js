@@ -57,26 +57,3 @@ for (let i of str){
     console.log(i); 
 }
 
-console.log("your grade is :", grade);
-console.log("your grade is :", grade);
-
-// let marks = prompt("enter your marks");
-// let grade;
-
-// if(marks<=100 && marks>=80){
-//     grade = 'A';
-// }
-// if(marks<=79 && marks>=60){
-//     grade = 'B';
-// }
-// if(marks<=59 && marks>=40){
-//     grade = 'C';
-// }
-// if(marks<=39 && marks>=30){
-//     grade = 'D';
-// }
-// else if (marks<=29 && marks>=0) {
-//     grade = 'F'
-// }
-
-// console.log("your grade is :", grade);
