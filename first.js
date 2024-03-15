@@ -55,5 +55,5 @@ console.log("aangli ghmaa denge chotee bhai !!");
 let str = 'aakash';
 for (let i of str){
     console.log(i); 
-}
+f
 
