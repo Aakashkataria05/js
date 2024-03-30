@@ -52,8 +52,25 @@ console.log("aangli ghmaa denge chotee bhai !!");
 //     i++;
 // }while(i <= number);
 
-let str = 'aakash';
-for (let i of str){
-    console.log(i); 
-f
+// let str = 'aakash';
+// for (let i of str){
+//     console.log(i); 
+// f
+let number = [3,4,5,6,7,8,9];
+number.push(1,2,10);
+number.pop()
+let sum = 0;
 
+for(let value of number){
+    sum = sum + value;
+}
+
+console.log(sum)
+let avg = sum/number.length;
+console.log(`avg of numbers = ${avg}`);
+
+number.toString();
+
+let dot = [10,20,30];
+let yo = number.concat(dot);
+console.log(yo);
