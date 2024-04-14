@@ -56,21 +56,39 @@ console.log("aangli ghmaa denge chotee bhai !!");
 // for (let i of str){
 //     console.log(i); 
 // f
-let number = [3,4,5,6,7,8,9];
-number.push(1,2,10);
-number.pop()
-let sum = 0;
+// let number = [3,4,5,6,7,8,9];
+// number.push(1,2,10);
 
-for(let value of number){
-    sum = sum + value;
+// number.splice(1,1,100,103);
+
+// number.pop()
+// let sum = 0;
+
+// for(let value of number){
+//     sum = sum + value;
+// }
+
+// console.log(sum)
+// let avg = sum/number.length;
+// console.log(`avg of numbers = ${avg}`);
+
+// number.toString();
+
+// let dot = [10,20,30];
+// let yo = number.concat(dot);
+// console.log(yo);
+
+// let comp = ["boom","micro","uber","google","ibm","netflix"];
+// comp.shift;
+// let yo = comp.slice(2,1,"ola");
+// console.log(comp)
+
+function giveMsg(msg) {
+    console.lopg(msg);
 }
 
-console.log(sum)
-let avg = sum/number.length;
-console.log(`avg of numbers = ${avg}`);
+giveMsg();
 
-number.toString();
-
-let dot = [10,20,30];
-let yo = number.concat(dot);
-console.log(yo);
+const mult = (a, b) =>{
+    console.log(a*b);
+}
